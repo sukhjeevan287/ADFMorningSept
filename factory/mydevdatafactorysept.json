@@ -5,6 +5,10 @@
 			"env": {
 				"type": "string",
 				"value": "dev"
+			},
+			"waitTime": {
+				"type": "int",
+				"value": 10
 			}
 		},
 		"trustModeClaimForMi": {
